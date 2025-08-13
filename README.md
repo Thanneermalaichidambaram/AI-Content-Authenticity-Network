@@ -347,15 +347,6 @@ gcloud services enable aiplatform.googleapis.com
 pip install streamlit plotly
 ```
 
-### Support
-- 📧 Email: support@ai-authenticity-network.com  
-- 💬 Discord: [Community Server](https://discord.gg/ai-authenticity)
-- 📚 Docs: [Full Documentation](https://docs.ai-authenticity-network.com)
-
-## 📄 License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Google Cloud for BigQuery and Vertex AI services
